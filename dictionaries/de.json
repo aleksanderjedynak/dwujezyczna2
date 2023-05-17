@@ -1,0 +1,20 @@
+{
+  "server-component": {
+    "welcome": "Willkommen"
+  },
+  "counter": {
+    "increment": "Zuwachs",
+    "decrement": "Dekrementieren"
+  },
+      "not": {
+    "first": "Page not found -de",
+    "second": "Sorry, we couldn’t find the page you’re looking for. -de"
+  },
+    "header": {
+        "first": "TCM KONGRES\nKraków 13-15 października 2023 de",
+    "second": "Zapraszamy We invite you to the 5th International Congress of Chinese Medicine organized by the Polish Society of Traditional Chinese Medicine (PTTMC) in Krakow. After the break caused by the pandemic, we are waiting for you thirsty to be together, listen to lectures of our wonderful teachers together, exchange experiences, inspiration and have fun together at the banquet. The aim of the Congress is to create a special meeting place for Chinese medicine therapists from various parts of Poland and the world, where they can learn from experienced TCM lecturers and practitioners, develop and integrate in order to recharge their batteries, fill with knowledge and how to better serve patients in their offices. Autumn colors, unusual streets of Krakow, walks along the Vistula River, around the Market Square or Kazimierz create a beautiful scenery for this event. We are very happy that extraordinary Tcm teachers will come to Krakow especially to share their knowledge and experience, answer questions and be there for us. We are also happy to meet you all. We are waiting for you in Krakow!!!!"
+  },
+      "test": {
+    "aaa": "asdfsafsdfsafsdfsfsafsd 22222"
+  }
+}

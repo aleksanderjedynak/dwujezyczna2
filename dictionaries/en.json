@@ -1,0 +1,20 @@
+{
+  "server-component": {
+    "welcome": "Welcome"
+  },
+  "counter": {
+    "increment": "Increment",
+    "decrement": "Decrement"
+  },
+    "not": {
+    "first": "Page not found",
+    "second": "Sorry, we couldn’t find the page you’re looking for."
+  },
+  "header": {
+        "first": "TCM KONGRES\nKraków 13-15 października 2023 en",
+    "second": "Zapraszamy na V Międzynarodowy Kongres Masdf asdgffdgfggfnKrakowie. Po przerwie spowodowanej pandemią czekamy na Was spragnieni bycia razem, wspólnego słuchania wykładów naszych wspaniałych nauczycieli, iecie. Celem Kongresu jest stworzenie specjalnego miejsca spotkań dla terapeutów medycyny chińskiej z różnych stron Polski i świata, w którym mogą się uczyć od doświadczonych wykładowców i praktyków Tcm, rozwijać się oraz integrować po to, by naładować akumulatory, wypełnić wiedzą i jak lepiej służyć pacjentom w swoich gabinetach. Jesienne barwy, niezwykłe uliczki Krakowa, spacery nad Wisłą, po Rynku czy Kazimierzu tworzą przepiękną scenerię tego wydarzenia. Cieszymy się ogromnie, że niezwykli nauczycieli Tcm przyjadą specjalnie do Krakowa, żeby dzielić się swoją wiedzą oraz doświadczeniem, odpowiadać na pytania i być dla nas. Cieszymy się również, że wszyscy się spotkamy. Czekamy na Was w Krakowie!!!"
+  },
+      "test": {
+    "aaa": "asdfsafsdfsafsdfsfsafsd 33333"
+  }
+}

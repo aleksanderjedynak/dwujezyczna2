@@ -1,0 +1,20 @@
+{
+  "server-component": {
+    "welcome": "Vítejte"
+  },
+  "counter": {
+    "increment": "Přidat",
+    "decrement": "Ubrat"
+  },
+  "not": {
+    "first": "Page not found -cs",
+    "second": "Sorry, we couldn’t find the page you’re looking for. -cs"
+  },
+      "header": {
+        "first": "TCM KONGRES\nKraków 13-15 października 2023 cs",
+    "second": "ZZveme vás na 5. mezinárodní kongres čínské medicíny pořádaný Polskou společností tradiční čínské medicíny (PTTMC) v Krakově. Po přestávce způsobené pandemií čekáme, až budete mít žízeň být spolu, poslechnout si společně přednášky našich úžasných lektorů, vyměnit si zkušenosti, inspiraci a společně se pobavit na rautu. Cílem kongresu je vytvořit speciální místo pro setkávání terapeutů čínské medicíny z různých částí Polska a světa, kde se mohou učit od zkušených lektorů a praktiků TCM, rozvíjet se a integrovat, aby si dobili baterky, naplnili vědomosti a jak lépe sloužit pacientům v jejich ordinacích. Podzimní barvy, neobvyklé krakovské uličky, procházky podél řeky Visly, kolem Tržního náměstí nebo Kazimierz vytvářejí pro tuto událost krásnou kulisu. Jsme velmi rádi, že mimořádní učitelé Tcm přijedou do Krakova především proto, aby se podělili o své znalosti a zkušenosti, odpovídali na otázky a byli tu pro nás. Rádi vás také všechny potkáme. Čekáme na vás v Krakově!!!ch wspaniałych nauczycieli, wzajemnej wymiany doświadczeń, inspiracji oraz wspólnej zabawy na bankiecie. Celem Kongresu jest stworzenie specjalnego miejsca spotkań dla terapeutów medycyny chińskiej z różnych stron Polski i świata, w którym mogą się uczyć od doświadczonych wykładowców i praktyków Tcm, rozwijać się oraz integrować po to, by naładować akumulatory, wypełnić wiedzą i jak lepiej służyć pacjentom w swoich gabinetach. Jesienne barwy, niezwykłe uliczki Krakowa, spacery nad Wisłą, po Rynku czy Kazimierzu tworzą przepiękną scenerię tego wydarzenia. Cieszymy się ogromnie, że niezwykli nauczycieli Tcm przyjadą specjalnie do Krakowa, żeby dzielić się swoją wiedzą oraz doświadczeniem, odpowiadać na pytania i być dla nas. Cieszymy się również, że wszyscy się spotkamy. Czekamy na Was w Krakowie!!!"
+  },
+    "test": {
+    "aaa": "asdfsafsdfsafsdfsfsafsd"
+  }
+}
